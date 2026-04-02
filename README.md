@@ -54,7 +54,7 @@
         <sub><b>AI Assistant</b></sub>
       </td>
       <td align="center" width="20%">
-        <a href="https://github.com/zeltrixglobal">
+        <a href="https://github.com/zeltrixglobal2026">
           <img src="https://img.shields.io/badge/ARENA_DEV-00ff00?style=for-the-badge&logo=unrealengine&logoColor=black" /><br/>
           <sub><b>Gaming Hub</b></sub>
         </a>
@@ -64,7 +64,7 @@
         <sub><b>Bakery Shop</b></sub>
       </td>
       <td align="center" width="20%">
-        <a href="https://github.com/zeltrixglobal">
+        <a href="https://github.com/zeltrixglobal2026">
           <img src="https://img.shields.io/badge/DEVGENIE_AI-6f42c1?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><br/>
           <sub><b>Code Editor</b></sub>
         </a>
@@ -77,12 +77,12 @@
 
 ### 📊 NEURAL ACTIVITY (GLOBAL STATS)
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zeltrixglobal&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=00ffff&border_color=00ffff&bg_color=00000000&hide_rank=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeltrixglobal&layout=compact&theme=tokyonight&title_color=00ffff&icon_color=00ffff&border_color=00ffff&bg_color=00000000" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zeltrixglobal2026&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=00ffff&border_color=00ffff&bg_color=00000000&hide_rank=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeltrixglobal2026&layout=compact&theme=tokyonight&title_color=00ffff&icon_color=00ffff&border_color=00ffff&bg_color=00000000" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeltrixglobal&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeltrixglobal2026&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -95,7 +95,7 @@
 <table border="0">
   <tr>
     <td width="300" align="center">
-      <img src="https://github.com/zeltrixglobal.png" width="250" style="border-radius: 20px; border: 4px solid #00ffff; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.4);" />
+      <img src="https://github.com/zeltrixglobal2026.png" width="250" style="border-radius: 20px; border: 4px solid #00ffff; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.4);" />
     </td>
     <td width="600">
       <h1 style="color: #00ffff; margin-bottom: 0;">MUHAMMAD KHIZAR MUGHAL</h1>
@@ -111,7 +111,7 @@
       <a href="mailto:zeltrixmodrenwebdevoleper2026@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
-      <a href="https://github.com/zeltrixglobal"> 
+      <a href="https://github.com/zeltrixglobal2026"> 
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
