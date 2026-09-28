@@ -40,27 +40,37 @@
 
 ### 📱 OFFICIAL QR CODES & DIGITAL NODES
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
       <td align="center" width="20%">
-        <img src="qr-code.png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/>
-        <sub><b>⚡ Instagram</b></sub>
+        <img src="qr-code.png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/><br/>
+        <a href="https://www.instagram.com/zeltrixglobal2026">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
       </td>
       <td align="center" width="20%">
-        <img src="qr-code (1).png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/>
-        <sub><b>⚡ LinkedIn</b></sub>
+        <img src="qr-code (1).png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/><br/>
+        <a href="https://www.linkedin.com/in/zeltrix-global-ab93453b9">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
       </td>
       <td align="center" width="20%">
-        <img src="qr-code (2).png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/>
-        <sub><b>⚡ GitHub</b></sub>
+        <img src="qr-code (2).png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/><br/>
+        <a href="https://github.com/zeltrixglobal2026">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </td>
       <td align="center" width="20%">
-        <img src="qr-code (3).png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/>
-        <sub><b>⚡ YouTube</b></sub>
+        <img src="qr-code (3).png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/><br/>
+        <a href="https://youtube.com/@zeltrixglobal2026">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+        </a>
       </td>
       <td align="center" width="20%">
-        <img src="qr-code (4).png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/>
-        <sub><b>⚡ Website</b></sub>
+        <img src="qr-code (4).png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/><br/>
+        <a href="https://zeltrixglobal2026.vercel.app">
+          <img src="https://img.shields.io/badge/Website-00ffff?style=for-the-badge&logo=google-chrome&logoColor=black" />
+        </a>
       </td>
     </tr>
   </table>
