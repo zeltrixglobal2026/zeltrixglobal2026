@@ -1,73 +1,36 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&text=ZELTRIX%20GLOBAL&fontSize=80&fontColor=00ffff&animation=twinkling&height=220&desc=PREMIUM%20DIGITAL%20FORGE%20|%20EST%202026&descSize=20&descAlignY=75" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=165&section=header&text=ZELTRIX%20GLOBAL&fontSize=62&fontColor=000000&subZ_text=TECH%20SERVICES%20COMPANY&subZ_fontSize=18&subColor=000000" width="100%" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=500&color=00ffff&center=true&vCenter=true&width=700&lines=CORE+DEVELOPMENT+SYSTEMS;KING+PROTECTION+SECURITY;ADVANCED+UI+EXPERIENCES;THE+FUTURE+OF+CODE;ZELTRIX+GLOBAL+TECH" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=500&color=00ffff&center=true&vCenter=true&width=750&lines=ZELTRIX+GLOBAL+TECH+SERVICES+COMPANY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=500&color=ffffff&center=true&vCenter=true&width=750&lines=NEXT-GEN+FULL-STACK+ENGINEERING;SCALABLE+CLOUD+ARCHITECTURES;CUSTOM+SOFTWARE+SOLUTIONS;TURNING+IDEAS+INTO+DIGITAL+REALITY" alt="Typing SVG" />
 </div>
 
 ---
 
-### ⚡ TECHNICAL EXPERTISE
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5_%2F_CSS3-00ffff?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript_(ES6%2B)-00ffff?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React.js-00ffff?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-00ffff?style=for-the-badge&logo=nodedotjs&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-00ffff?style=for-the-badge&logo=tailwindcss&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kotlin-00ffff?style=for-the-badge&logo=kotlin&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android_Dev-00ffff?style=for-the-badge&logo=android&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_APIs-00ffff?style=for-the-badge&logo=postman&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-00ffff?style=for-the-badge&logo=figma&logoColor=black" />
-  <img src="https://img.shields.io/badge/Responsive_Design-00ffff?style=for-the-badge&logo=airplay&logoColor=black" />
-  <img src="https://img.shields.io/badge/Web_Performance-00ffff?style=for-the-badge&logo=googlelighthouse&logoColor=black" />
-</p>
+### 🌐 COMPREHENSIVE COMPANY OVERVIEW (ZGTSC)
+
+> **Zeltrix Global Tech Services Company (ZGTSC)** is an elite, future-driven software engineering organization dedicated to architecting high-performance digital ecosystems. We bridge the gap between complex conceptual frameworks and production-ready, scalable web applications. By fusing rigorous engineering standards with cutting-edge UI/UX design, ZGTSC empowers global businesses to dominate the digital landscape.
 
 ---
 
-### 🔧 CORE TOOLS & SYSTEMS
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-</p>
+### ⚙️ CORE ENTERPRISE SERVICES
 
----
-
-### ⚡ PROJECTS
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td align="center" width="20%">
-        <a href="https://zeltrix-ai.vercel.app">
-          <img src="https://img.shields.io/badge/ZELTRIX_CORE-00ffff?style=for-the-badge&logo=google-chrome&logoColor=black" /><br/>
-          <sub><b>Live System</b></sub>
-        </a>
+      <td width="33%" align="left" style="background: rgba(0,255,255,0.03); padding: 15px; border-radius: 10px; border: 1px solid rgba(0,255,255,0.2);">
+        <h3 style="color: #00ffff; margin: 0 0 10px 0;">🚀 Full-Stack Web Apps</h3>
+        <p style="font-size: 13px; color: #a0a0a0;">Architecting blazing-fast, server-rendered applications using Next.js App Router, React, TypeScript, and robust Node.js backends.</p>
       </td>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/AIVON_AI-FF0000?style=for-the-badge&logo=openai&logoColor=white" /><br/>
-        <sub><b>AI Assistant</b></sub>
+      <td width="33%" align="left" style="background: rgba(0,255,255,0.03); padding: 15px; border-radius: 10px; border: 1px solid rgba(0,255,255,0.2);">
+        <h3 style="color: #00ffff; margin: 0 0 10px 0;">⚡ Custom Software</h3>
+        <p style="font-size: 13px; color: #a0a0a0;">Tailor-made software infrastructure, automated workflows, secure API integrations, and enterprise-grade cloud deployment.</p>
       </td>
-      <td align="center" width="20%">
-        <a href="https://github.com/zeltrixglobal2026">
-          <img src="https://img.shields.io/badge/ARENA_DEV-00ff00?style=for-the-badge&logo=unrealengine&logoColor=black" /><br/>
-          <sub><b>Gaming Hub</b></sub>
-        </a>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/TORONTO_CAKES-FF69B4?style=for-the-badge&logo=cakephp&logoColor=white" /><br/>
-        <sub><b>Bakery Shop</b></sub>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://github.com/zeltrixglobal2026">
-          <img src="https://img.shields.io/badge/DEVGENIE_AI-6f42c1?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><br/>
-          <sub><b>Code Editor</b></sub>
-        </a>
+      <td width="33%" align="left" style="background: rgba(0,255,255,0.03); padding: 15px; border-radius: 10px; border: 1px solid rgba(0,255,255,0.2);">
+        <h3 style="color: #00ffff; margin: 0 0 10px 0;">🎨 UI/UX & Brand Identity</h3>
+        <p style="font-size: 13px; color: #a0a0a0;">Immersive digital experiences, high-converting interfaces, advanced wireframing, and comprehensive corporate visual identity systems.</p>
       </td>
     </tr>
   </table>
@@ -75,7 +38,56 @@
 
 ---
 
-### 📊 NEURAL ACTIVITY (GLOBAL STATS)
+### 📱 OFFICIAL QR CODES & DIGITAL NODES
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="20%">
+        <img src="qr-code.png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/>
+        <sub><b>⚡ Instagram</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="qr-code (1).png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/>
+        <sub><b>⚡ LinkedIn</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="qr-code (2).png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/>
+        <sub><b>⚡ GitHub</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="qr-code (3).png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/>
+        <sub><b>⚡ YouTube</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="qr-code (4).png" width="100%" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);" /><br/>
+        <sub><b>⚡ Website</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### ⚡ TECHNICAL EXPERTISE & STACK
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5_%2F_CSS3-00ffff?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript_(ES6%2B)-00ffff?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-00ffff?style=for-the-badge&logo=typescript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-00ffff?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-00ffff?style=for-the-badge&logo=next.js&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-00ffff?style=for-the-badge&logo=nodedotjs&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-00ffff?style=for-the-badge&logo=tailwindcss&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-00ffff?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_APIs-00ffff?style=for-the-badge&logo=postman&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-00ffff?style=for-the-badge&logo=figma&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web_Performance-00ffff?style=for-the-badge&logo=googlelighthouse&logoColor=black" />
+</p>
+
+---
+
+### 📊 GLOBAL STATS & NEURAL ACTIVITY
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=zeltrixglobal2026&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=00ffff&border_color=00ffff&bg_color=00000000&hide_rank=false" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeltrixglobal2026&layout=compact&theme=tokyonight&title_color=00ffff&icon_color=00ffff&border_color=00ffff&bg_color=00000000" />
@@ -87,7 +99,7 @@
 
 ---
 
-### 👤 THE ARCHITECT (CEO & FOUNDER)
+### 👤 THE ARCHITECT & FOUNDER
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
@@ -99,8 +111,8 @@
     </td>
     <td width="600">
       <h1 style="color: #00ffff; margin-bottom: 0;">MUHAMMAD KHIZAR MUGHAL</h1>
-      <h3 style="margin-top: 5px;">Lead Architect & Visionary</h3>
-      <p><i>"Forging digital excellence through advanced neural logic and futuristic design. We don't just build software; we create the infrastructure of tomorrow."</i></p>
+      <h3 style="margin-top: 5px;">Founder & CEO — Zeltrix Global Tech Services (ZGTSC)</h3>
+      <p><i>"Forging digital excellence through advanced full-stack architecture and futuristic UI/UX design. At ZGTSC, we don't just build software; we engineer the digital infrastructure of tomorrow."</i></p>
       <br/>
       <a href="https://www.linkedin.com/in/zeltrix-global-ab93453b9"> 
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -121,5 +133,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=100&section=footer&text=SYSTEM_STATUS_ACTIVE&fontSize=20&fontColor=FFFFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=100&section=footer&text=ZGTSC_SYSTEM_ACTIVE_2026&fontSize=20&fontColor=FFFFFF" width="100%" />
 </p>
