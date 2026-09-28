@@ -87,17 +87,6 @@
 
 ---
 
-### 📊 GLOBAL STATS & NEURAL ACTIVITY
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zeltrixglobal2026&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=00ffff&border_color=00ffff&bg_color=00000000&hide_rank=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeltrixglobal2026&layout=compact&theme=tokyonight&title_color=00ffff&icon_color=00ffff&border_color=00ffff&bg_color=00000000" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeltrixglobal2026&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
----
 
 ### 👤 THE ARCHITECT & FOUNDER
 <p align="center">
